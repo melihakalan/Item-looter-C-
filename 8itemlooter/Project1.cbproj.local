@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.10.13 19:46:46.531.cpp,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\File1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\File1.cpp</Transaction>
+    <Transaction>2010.10.13 19:46:46.953.cpp,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Unit1.cpp</Transaction>
+    <Transaction>2010.10.13 19:46:46.953.h,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Unit1.h</Transaction>
+    <Transaction>2010.10.13 19:46:46.953.dfm,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Unit1.dfm</Transaction>
+    <Transaction>2010.10.13 19:46:47.390.cbproj,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Project1.cbproj</Transaction>
+    <Transaction>2010.10.16 19:05:13.187.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\File2.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll test\Def.h</Transaction>
+    <Transaction>2010.11.14 23:12:11.359.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Def.h=</Transaction>
+    <Transaction>2010.11.14 23:12:30.625.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\MainForm.cpp</Transaction>
+    <Transaction>2010.11.14 23:12:30.625.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\MainForm.h</Transaction>
+    <Transaction>2010.11.14 23:12:30.625.dfm,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.dfm=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\MainForm.dfm</Transaction>
+    <Transaction>2010.11.14 23:12:40.515.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit2.cpp=</Transaction>
+    <Transaction>2010.11.14 23:12:50.859.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\File1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\DllMain.cpp</Transaction>
+    <Transaction>2010.11.14 23:13:51.218.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Define.cpp</Transaction>
+    <Transaction>2010.11.14 23:13:51.218.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Define.h</Transaction>
+    <Transaction>2010.11.14 23:15:38.484.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\StringFunc.cpp</Transaction>
+    <Transaction>2010.11.14 23:15:38.484.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\StringFunc.h</Transaction>
+    <Transaction>2010.11.14 23:24:35.437.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Memory.cpp</Transaction>
+    <Transaction>2010.11.14 23:24:35.437.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Memory.h</Transaction>
+    <Transaction>2010.11.14 23:26:49.812.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Main.cpp</Transaction>
+    <Transaction>2010.11.14 23:26:49.812.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Main.h</Transaction>
+    <Transaction>2010.11.15 10:28:27.093.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Chaos.cpp</Transaction>
+    <Transaction>2010.11.15 10:28:27.093.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Chaos.h</Transaction>
+    <Transaction>2010.11.15 10:34:02.359.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Inventory.cpp</Transaction>
+    <Transaction>2010.11.15 10:34:02.359.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Inventory.h</Transaction>
+    <Transaction>2010.11.15 11:10:56.984.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Cast.cpp</Transaction>
+    <Transaction>2010.11.15 11:10:56.984.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Cast.h</Transaction>
+    <Transaction>2010.11.15 11:13:12.812.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\PriestParty.cpp</Transaction>
+    <Transaction>2010.11.15 11:13:12.812.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\PriestParty.h</Transaction>
+    <Transaction>2010.11.15 11:16:31.765.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\MailSlot.cpp</Transaction>
+    <Transaction>2010.11.15 11:16:31.765.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\MailSlot.h</Transaction>
+    <Transaction>2010.11.16 18:13:03.031.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\LogTrap.cpp</Transaction>
+    <Transaction>2010.11.16 18:13:03.031.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\dll genel\LogTrap.h</Transaction>
+    <Transaction>2010.11.17 18:09:50.640.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\8itemlooter\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\8itemlooter\AreaFunc.cpp</Transaction>
+    <Transaction>2010.11.17 18:09:50.640.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\8itemlooter\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\8itemlooter\AreaFunc.h</Transaction>
+  </Transactions>
+</BorlandProject>
